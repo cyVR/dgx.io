@@ -1,0 +1,32 @@
+div.customcontainer {
+    
+   width: 40%;
+   left: 30%;
+    position: relative;
+    
+}
+    
+h3.customoffset {
+    position: relative;
+    left: 8%;
+}
+
+ul.customoffset{
+    position: relative;
+    left:25%;
+}
+
+div.footeroffset {
+    position: relative;
+    left:100%;
+}
+
+div.twitterfeedoffset {
+    position: relative;
+    left:15%;
+}
+
+a.customoffset{
+    position:relative;
+    bottom:40px;
+}
